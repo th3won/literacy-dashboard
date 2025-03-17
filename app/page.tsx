@@ -1,4 +1,4 @@
-import LiteracyDashboard from "@/components/literacy-dashboard";
+import LiteracyDashboard from "../components/literacy-dashboard";
 
 export default function Home() {
   return (
